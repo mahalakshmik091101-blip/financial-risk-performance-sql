@@ -39,6 +39,11 @@ Relational integrity is enforced using primary and foreign keys.
 *Run the analytical queries to generate insights
 *(Optional) Connect to Excel, Power BI, or Tableau for visualization
 
-Interview Talking Point
 
 “This project demonstrates how SQL can be applied to analyze financial risk, customer behavior, and portfolio performance in a banking environment using structured relational data.”
+
+Prepared by 👤 Mahalakshmi K
+
+🎯 Data Analyst | SQL | Power BI | DAX | Excel |Tableau
+
+📧 Email:mahalakshmik091101@gmail.com
